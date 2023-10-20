@@ -1,6 +1,5 @@
 const Joi = require('joi');
 const jwt = require('jsonwebtoken');
-const config = require('config');
 const passwordComplexity = require("joi-password-complexity");
 const mongoose = require('mongoose');
 
