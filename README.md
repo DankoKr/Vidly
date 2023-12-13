@@ -1,2 +1,2 @@
 # Vidly
-Implementing my Node Js knowledge
+Learning NodeJS. Simple API application
